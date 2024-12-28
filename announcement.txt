@@ -1,0 +1,29 @@
+{
+  "id": 2,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "墨玖制作"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "墨玖制作"
+    }
+  ],
+  "date": "2024.12.28",
+  "content": [
+    {
+      "lang": "en",
+      "text": "墨玖制作"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "墨玖制作"
+    }
+  ]
+}
